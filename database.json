@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    ":": [
+      "",
+      ""
+    ],
     "https://gist.github.com/baafb30982c440613bd0a865130a5fbd.git:cartWalker_copy.xml": [
       "https://gist.github.com/baafb30982c440613bd0a865130a5fbd.git",
       "cartWalker_copy.xml"
@@ -17,6 +21,6 @@
     "firstVersion": "0.18.1",
     "showTerminal": true,
     "showDevices": true,
-    "showCreatureLab": false
+    "showCreatureLab": true
   }
 }
