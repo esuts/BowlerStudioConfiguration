@@ -8,13 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/baafb30982c440613bd0a865130a5fbd.git:cartWalker_copy.xml": [
-      "https://gist.github.com/baafb30982c440613bd0a865130a5fbd.git",
-      "cartWalker_copy.xml"
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
