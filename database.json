@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
+      "esuts/Inkscape-Plugin-Demo",
+      "1610298431358"
+    ]
+  },
   "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
@@ -8,9 +14,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
+    "https://github.com/esuts/Inkscape-Plugin-Demo.git:Inkscape-Plugin-Demo.SVG": [
+      "https://github.com/esuts/Inkscape-Plugin-Demo.git",
+      "Inkscape-Plugin-Demo.SVG"
     ]
   },
   "BowlerStudioConfigs": {
