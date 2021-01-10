@@ -3,6 +3,10 @@
     "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
       "esuts/Inkscape-Plugin-Demo",
       "1610298431358"
+    ],
+    "https://github.com/esuts/SVGExtrude_esuts.git": [
+      "esuts/SVGExtrude_esuts",
+      "1610298642984"
     ]
   },
   "studio-open-web": {},
