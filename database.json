@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/madhephaestus/sutmanaphone.git": [
+      "madhephaestus/sutmanaphone",
+      "1617902393266"
+    ],
     "https://github.com/esuts/Inkscape-Plugin-Demo.git": [
       "esuts/Inkscape-Plugin-Demo",
       "1610298431358"
