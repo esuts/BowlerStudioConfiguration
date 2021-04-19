@@ -26,6 +26,10 @@
       "https://github.com/esuts/Inkscape-Plugin-Demo.git",
       "cube-cutout.groovy"
     ],
+    "https://github.com/madhephaestus/sutmanaphone.git:sweepit.groovy": [
+      "https://github.com/madhephaestus/sutmanaphone.git",
+      "sweepit.groovy"
+    ],
     "https://github.com/esuts/Inkscape-Plugin-Demo.git:Inkscape-Plugin-Demo.SVG": [
       "https://github.com/esuts/Inkscape-Plugin-Demo.git",
       "Inkscape-Plugin-Demo.SVG"
